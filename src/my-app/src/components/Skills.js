@@ -8,10 +8,12 @@ const Skills = () => {
 					<div className="col-12">
 						<h1 className="display-4">My Skills.</h1>
 					</div>
-					<hr>
+					<hr/>
 					<div className="col-12">
 						<p className="lead">These are some of the skills I picked up over the years (Past 3 months)</p>
+				
 					</div>
+					
 				</div>
 
 				<div className="container-fluid padding">
@@ -31,7 +33,8 @@ const Skills = () => {
 
 
 						</div>
-						<hr className="my-4">
+						<hr className="my-4"/>
+					
 					</div>
 				</div>
                 </div>

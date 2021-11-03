@@ -1,12 +1,12 @@
 import React from 'react';
-import NavBar from './components/NavBar';
+import NavBar from './src/components/NavBar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Clients from './components/Clients'
-import Skills from './components/Skills'
-import Projects from './components/Project';
-import Contact from './components/Contact';
+import Clients from './src/components/Clients'
+import Skills from './src/components/Skills'
+import Projects from './src/components/Project';
+import Contact from './src/components/Contact';
 //import Footer from './components/Footer';
-import About from './components/About';
+import About from './src/components/About';
 
 function App() {
     return (

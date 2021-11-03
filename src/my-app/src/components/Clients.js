@@ -10,15 +10,15 @@ const Clients = () => {
         <p>[TBD]</p>
         <p>[TBD]</p>
         <p>[TBD]</p>
-        <br>
+        <br/>
         <a href="#" class="btn btn primary">Learn more</a>
     </div>
     <div class="col-lg-6">
-        <img src="img/client_section.png">
+        <img src="img/client_section.png"/>
     </div>
 </div>
 </div>
-<hr class="my-4">
+<hr class="my-4"/>
 
 <figure>
 <div class="fixed-wrap">
