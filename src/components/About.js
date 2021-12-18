@@ -1,5 +1,9 @@
 import React from 'react'
-																					 h
+import 'bootstrap/dist/css/bootstrap.min.css'
+import './About.css';
+import Footer from './Footer';
+import imageBackground from './img/background.png'
+
 
 
 
