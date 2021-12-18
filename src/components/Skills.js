@@ -2,14 +2,14 @@ import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Skill.css'
 import Footer from './Footer';
-import HTML from './imgHTML-01.png';
+import HTML from './img/HTML-01.png';
 import CSS from './img/CSS-01.png';
 import Javascript from './img/javascript1.png';
-import Bootstrap from './img/Boostrap-01.png';
+import Bootstrap from './img/Bootstrap-01.png';
 import SemanticUI from './img/semanticUI-01.png';
 import NodeJS from './img/Nodejs.png';
 import ExpressJS from './img/express-01.png';
-import JQuery from './images/jquery-01.png';
+import JQuery from './img/jquery.png';
 import MySQL from './img/mySql.png';
 import ReactImg from './img/react-1-01.png';
 

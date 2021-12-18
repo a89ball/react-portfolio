@@ -1,7 +1,7 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './Header.css';
-import HeaderImage from './images/bg.jpg'
+import HeaderImage from './img/background.png'
 
 
 const Header = () => {
