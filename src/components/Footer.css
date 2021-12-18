@@ -1,0 +1,19 @@
+footer{
+    height: 200px;
+    background-color: #333333;
+}
+
+footer .r-icon a{
+    font-size: 25px;
+    color: #848484;
+    margin: 10px;
+    padding:5px;
+    border:1px solid #848484;
+    border-radius: 60%;
+}
+
+footer .r-icon a:hover{
+    border:1px solid #eee;
+    color: #eee;
+    transition: 5s all;
+}
